@@ -1,6 +1,6 @@
 # ¡Hola, soy Galder! 👋
 
-¡Bienvenido a mi rincón de códigos! Soy un apasionado desarrollador con una ferviente curiosidad por la tecnología y una obsesión saludable por el código limpio y bien documentado.
+¡Bienvenido a mi rincón de códigos! Soy un apasionado desarrollador con una ferviente curiosidad por la tecnología, el desarrollo web y la IA.
 
 ## Acerca de mí
 
