@@ -1,18 +1,10 @@
 # ¡Hola, soy Galder! 👋
 
-¡Bienvenido a mi rincón de códigos! Soy un apasionado desarrollador con una ferviente curiosidad por la tecnología, el desarrollo web y la IA.
+💼 Sobre mí
+Soy un desarrollador con más de 10 años de experiencia en tecnologías backend y frontend. Actualmente, estoy enfocando mis esfuerzos en aprender y aplicar Inteligencia Artificial de forma autodidacta, combinando mis habilidades de desarrollo web con soluciones innovadoras basadas en IA. Estoy siempre buscando nuevos desafíos y oportunidades para crecer y compartir mi trabajo.
 
-## Acerca de mí
-
-- 💻 Tengo experiencia en Desarrollo Web usando entre otras tecnologías: Angular / Node / Java / Spring / MySQL...
-- 🚀 Me encanta trabajar en proyectos desafiantes y encontrar soluciones creativas.
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
-
-## Lo que encontrarás aquí
-
-- 💻 Proyectos divertidos e inusuales.
-- 🌟 Código espontáneo y ocasionalmente extraño.
-- 🚀 Fragmentos de mi viaje por el mundo del desarrollo.
+🔍 ¿Qué encontrarás aquí?
+En este repositorio, compartiré mis proyectos de desarrollo web e inteligencia artificial. Podrás explorar soluciones creativas, proyectos experimentales y ejemplos de código que reflejan mi evolución como desarrollador.
 
 ¡No dudes en explorar mis repositorios y siéntete libre de contactarme si tienes alguna pregunta o sugerencia!
 
